@@ -14,7 +14,7 @@ To run the module, pass the path to the directory on your local machine and inpu
 questions (from each category) that you would like to be asked.
 
 ```
-python quiz-yourself.py --dir=YOURDIR --num_questions=X
+python ask_questions.py --dir=YOURDIR --num_questions=X
 ```
 
 Additional categories can be easily added by supplying text files with questions separated by

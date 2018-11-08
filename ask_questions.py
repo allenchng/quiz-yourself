@@ -52,7 +52,7 @@ if __name__ == "__main__":
         file = pd.read_csv(i, header=None, usecols=[0], sep=';')
         file_list = file[0].tolist()
 
-        question_indices = random.sample(range(0, len(file_list)), num_questions)
+        question_indices = random.sample(range(0, len(file_list)), int(num_questions))
         question_list = [file_list[i] for i in question_indices]
         questions.append(question_list)
 
