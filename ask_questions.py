@@ -39,11 +39,12 @@ if __name__ == "__main__":
         num_questions = args.num_questions
 
     path = sys.path[0]  # detects path based on where script was launched
+    questions_dir = path + '/questions'
 
     filelist = []
-    for file in os.listdir(str(path)):
+    for file in os.listdir(str(questions_dir)):
         if file.endswith(".csv"):
-            filelist.append(os.path.join(str(path), file))
+            filelist.append(os.path.join(str(questions_dir), file))
 
     random.shuffle(filelist)
 
