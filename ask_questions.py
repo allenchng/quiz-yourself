@@ -25,19 +25,20 @@ import os
 import random
 import itertools
 import argparse
+import sys
 
 from random import shuffle
 
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--dir", help="directory where script is stored")
     parser.add_argument("--num_questions", help="number of questions per category")
     args = parser.parse_args()
 
-    if args.dir:
-        path = args.dir
+    if args.num_questions:
         num_questions = args.num_questions
+
+    path = sys.path[0]  # detects path based on where script was launched
 
     filelist = []
     for file in os.listdir(str(path)):
