@@ -10,11 +10,10 @@ Simply clone or download the folder to your local machine.
 
 ## Running the module
 
-To run the module, pass the path to the directory on your local machine and input the number of
-questions (from each category) that you would like to be asked.
+Run the module in command line. The only requirement to specify is the number of questions (from each category) you would like to be quizzed on. 
 
 ```
-python ask_questions.py --dir=YOURDIR --num_questions=X
+python ask_questions.py --num_questions=5
 ```
 
 Additional categories can be easily added by supplying text files with questions separated by
