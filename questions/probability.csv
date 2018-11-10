@@ -20,17 +20,25 @@ You have a 0.1% chance of picking up a coin with both heads, and a 99.9% chance 
 What is a P-Value?;
 Describe the Normal Distribution?;
 A test has a true positive rate of 100% and false positive rate of 5%. There is a population with a 1/1000 rate of having the condition the test identifies. Considering a positive test, what is the probability of having that condition?;
-Marie is getting married tomorrow, at an outdoor ceremony in the desert. In recent years, it has rained only 5 days each year. Unfortunately, the weatherman has predicted rain for tomorrow. When it actually rains, the weatherman correctly forecasts rain 90% of the time. When it doesn't rain, he incorrectly forecasts rain 10% of the time. What is the probability that it will rain on the day of Marie's wedding?
-Suppose a coin is flipped 3 times. What is the probability of getting two tails and one head?
-How many different ways can you select 2 letters from the set of letters: X, Y, and Z? (Hint: In this problem, order is NOT important; i.e., XY is considered the same selection as YX.)
-Five-card stud is a poker game, in which a player is dealt 5 cards from an ordinary deck of 52 playing cards. How many distinct poker hands could be dealt?
-How many different ways can you arrange the letters X, Y, and Z? (Hint: In this problem, order is important; i.e., XYZ is considered a different arrangement than YZX.)
-In horse racing, a trifecta is a type of bet. To win a trifecta bet, you need to specify the horses that finish in the top three spots in the exact order in which they finish. If eight horses enter the race, how many different ways can they finish in the top three spots?
-In poker, a royal flush is a straight flush made up of the 10, jack, queen, king, and ace. How many distinct poker hands can be classified as a royal flush?
-On any single deal, what is the probability that a player will be dealt a royal flush?
-On any single deal, what is the probability that a player will be dealt a straight flush?
-On any single deal, what is the probability that a player will be dealt an ordinary straight (non straight flush)?
-On any single deal, what is the probability that a player will be dealt an ordinary flush?
-On any single deal, what is the probability that a player will be dealt a four of a kind?
-On any single deal, what is the probability that a player will be dealt a full house?
-On any single deal, what is the probability that a player will be dealt a three of a kind? One Pair?
+Marie is getting married tomorrow, at an outdoor ceremony in the desert. In recent years, it has rained only 5 days each year. Unfortunately, the weatherman has predicted rain for tomorrow. When it actually rains, the weatherman correctly forecasts rain 90% of the time. When it doesn't rain, he incorrectly forecasts rain 10% of the time. What is the probability that it will rain on the day of Marie's wedding?;
+Suppose a coin is flipped 3 times. What is the probability of getting two tails and one head?;
+How many different ways can you select 2 letters from the set of letters: X, Y, and Z? (Hint: In this problem, order is NOT important; i.e., XY is considered the same selection as YX.);
+Five-card stud is a poker game, in which a player is dealt 5 cards from an ordinary deck of 52 playing cards. How many distinct poker hands could be dealt?;
+How many different ways can you arrange the letters X, Y, and Z? (Hint: In this problem, order is important; i.e., XYZ is considered a different arrangement than YZX.);
+In horse racing, a trifecta is a type of bet. To win a trifecta bet, you need to specify the horses that finish in the top three spots in the exact order in which they finish. If eight horses enter the race, how many different ways can they finish in the top three spots?;
+In poker, a royal flush is a straight flush made up of the 10, jack, queen, king, and ace. How many distinct poker hands can be classified as a royal flush?;
+On any single deal, what is the probability that a player will be dealt a royal flush?;
+On any single deal, what is the probability that a player will be dealt a straight flush?;
+On any single deal, what is the probability that a player will be dealt an ordinary straight (non straight flush)?;
+On any single deal, what is the probability that a player will be dealt an ordinary flush?;
+On any single deal, what is the probability that a player will be dealt a four of a kind?;
+On any single deal, what is the probability that a player will be dealt a full house?;
+On any single deal, what is the probability that a player will be dealt a three of a kind? One Pair?;
+Suppose a die is tossed 5 times. What is the probability of getting exactly 2 fours?;
+Suppose we randomly select 5 cards without replacement from an ordinary deck of playing cards. What is the probability of getting exactly 2 red cards (i.e., hearts or diamonds)?;
+Suppose a card is drawn randomly from an ordinary deck of playing cards, and then put back in the deck. This exercise is repeated five times. What is the probability of drawing 1 spade, 1 heart, 1 diamond, and 2 clubs?;
+Suppose we have a bowl with 10 marbles - 2 red marbles, 3 green marbles, and 5 blue marbles. We randomly select 4 marbles from the bowl, with replacement. What is the probability of selecting 2 green marbles and 2 blue marbles?;
+Bob is a high school basketball player. He is a 70% free throw shooter. That means his probability of making a free throw is 0.70. During the season, what is the probability that Bob makes his third free throw on his fifth shot?;
+Bob is a high school basketball player. He is a 70% free throw shooter. That means his probability of making a free throw is 0.70. During the season, what is the probability that Bob makes his first free throw on his fifth shot?;
+The average number of homes sold by the Acme Realty company is 2 homes per day. What is the probability that exactly 3 homes will be sold tomorrow?;
+Suppose the average number of lions seen on a 1-day safari is 5. What is the probability that tourists will see fewer than four lions on the next 1-day safari?;
